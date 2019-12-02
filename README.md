@@ -1,25 +1,25 @@
 # projeto-firebase
 
-## Project setup
+projeto para o curso de front-end usando vue.js e firebase
+
+## Setup do projeto
 ```
 npm install
 ```
-### Educational project
-
-### Compiles and hot-reloads for development
+### Compilar para desenvolvimento
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compilar para produção
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Lints and arquivos fixos
 ```
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Customizar configuração
+Veja [Configuration Reference](https://cli.vuejs.org/config/).
