@@ -19,9 +19,7 @@ Ative o realtime database dentro do console do Firebase;
 
 Execute npm run serve para subir um servidor local para desenvolvimento com hot reload ativado.
 
-```
-npm install
-```
+
 ### Compilar para desenvolvimento
 ```
 npm run serve
