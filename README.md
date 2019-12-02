@@ -3,9 +3,9 @@
 projeto para o curso de front-end usando vue.js e firebase
 
 ## Setup do projeto
-Rodando o projeto local
+Rodando o projeto local;
 Clone o projeto na sua máquina;
-Instale as dependências usando npm i
+Instale as dependências usando npm i;
 Renomeie o arquivo .env.local.example para .env.local;
 Crie uma conta no Firebase (basta ter uma conta do Google);
 No console, adicione um novo projeto e dê o nome que preferir;
