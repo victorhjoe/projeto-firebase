@@ -5,8 +5,10 @@
 
     <div class="container-fluid" v-if="isLogged">
       <div class="row">
-        <div class="col-2 navigation-sidebar">
-          <h1 class="app-title" >Expenses</h1>
+        <div class="col- col-md-2 navigation-sidebar">
+          <div class="flex-column justify-content-center">
+            <h1 class="app-title" >Expenses</h1>
+          </div>
           <layout-navigation/>
         </div>
         <div class="col">
