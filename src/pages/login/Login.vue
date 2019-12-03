@@ -1,6 +1,6 @@
 <template>
-  <form @submit.prevent="doLogin()" class="form-login">
-    <div class="card">
+  <form @submit.prevent="doLogin()" class="form-login container-fluid">
+    <div class="card col-10 col-sm-10 col-md-5 col-lg-5">
       <div class="card-header text-center">
         <h1 class="mb-0">Expenses</h1>
       </div>
@@ -94,19 +94,15 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-.form-login {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-}
-
 h1 {
   font-size: 18pt;
 }
 
 .card {
-  width: 30%;
   color: var(--darker);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 </style>
